@@ -12871,6 +12871,7 @@ readers do not read off random characters that represent icons */
   background-color: white;
   color: #000;
   text-align: center;
+  cursor: pointer;
 }
 
 .audio i {
